@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/verifyCertificate"
+  to = "/verifyCertificate.html"
+  status = 200
