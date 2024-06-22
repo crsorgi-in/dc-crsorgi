@@ -3,10 +3,3 @@
   to = "/verifyCertificate.html"
   status = 200
 
-[build]
-  publish = "."
-
-[[redirects]]
-  from = "/"
-  to = "/crs/"
-  status = 200
