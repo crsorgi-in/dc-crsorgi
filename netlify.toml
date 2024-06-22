@@ -7,6 +7,6 @@
   publish = "."
 
 [[redirects]]
-  from = "/"
-  to = "/crs/"
+  from = "https://dc-crsorgi.netlify.app/crs/"
+  to = "https://dc-crsorgi.netlify.app/"
   status = 200
