@@ -4,9 +4,4 @@
   status = 200
 
 [build]
-  publish = "."
-
-[[redirects]]
-  from = "https://dc-crsorgi.netlify.app/crs/"
-  to = "https://dc-crsorgi.netlify.app/"
-  status = 200
+  publish = "crs"
